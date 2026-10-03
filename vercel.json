@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/help",
+      "destination": "https://chatbase.co/YOUR_AGENT_ID/help"
+    },
+    {
+      "source": "/help/:path*",
+      "destination": "https://chatbase.co/YOUR_AGENT_ID/help/:path*"
+    },
+    {
+      "source": "/__cb/:path*",
+      "destination": "https://chatbase.co/__cb/:path*"
+    },
+    {
+      "source": "/api/chat/YOUR_AGENT_ID/:path*",
+      "destination": "https://chatbase.co/api/chat/YOUR_AGENT_ID/:path*"
+    }
+  ]
+}
