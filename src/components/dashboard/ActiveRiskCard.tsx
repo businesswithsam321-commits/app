@@ -43,7 +43,7 @@ export const ActiveRiskCard: React.FC = () => {
             {topRisk.severity} Risk
           </span>
           <span className="text-xs text-stone-500">•</span>
-          <span className="text-xs text-stone-500 font-medium">ClimateCheck Risk Indicator</span>
+          <span className="text-xs text-stone-500 font-medium">Framtech Risk Indicator</span>
         </div>
 
         <button

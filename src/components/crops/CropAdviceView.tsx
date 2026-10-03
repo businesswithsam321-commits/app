@@ -42,7 +42,7 @@ export const CropAdviceView: React.FC = () => {
           <div>
             <strong className="text-emerald-950">Agronomic Suitability Model:</strong>
             <span className="ml-1">
-              ClimateCheck provides comparative suitability evaluations. We do NOT guarantee yields or market profits. Consider seed variety, planting dates, and local agricultural officer advice before finalizing planting decisions.
+              Framtech provides comparative suitability evaluations. We do NOT guarantee yields or market profits. Consider seed variety, planting dates, and local agricultural officer advice before finalizing planting decisions.
             </span>
           </div>
         </div>

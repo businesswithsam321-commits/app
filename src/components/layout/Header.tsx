@@ -23,7 +23,7 @@ export const Header: React.FC = () => {
           </div>
           <div>
             <span className="font-display font-bold tracking-tight text-emerald-950 text-lg sm:text-xl block leading-tight">
-              CLIMATECHECK
+              FRAMTECH
             </span>
             <span className="text-[11px] text-stone-500 block tracking-normal -mt-0.5">
               AI Climate & Farming Information Platform

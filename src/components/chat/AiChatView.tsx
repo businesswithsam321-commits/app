@@ -37,7 +37,7 @@ export const AiChatView: React.FC = () => {
       <div className="w-full flex-1 rounded-2xl overflow-hidden border border-stone-300 bg-white shadow-xs relative">
         <iframe
           src="/help"
-          title="Chatbase Assistant"
+          title="Framtech Assistant"
           className="w-full h-full border-0 rounded-2xl"
           style={{ width: '100%', height: '100%', border: 'none' }}
         ></iframe>

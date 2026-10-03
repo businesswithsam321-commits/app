@@ -34,7 +34,7 @@ export const AlertsView: React.FC = () => {
             </div>
             <h3 className="text-lg font-bold text-emerald-950 font-display">No Major Weather Risks Detected</h3>
             <p className="text-xs text-stone-500 max-w-md mx-auto">
-              No significant ClimateCheck risks detected for the current weather forecast window in your area.
+              No significant Framtech risks detected for the current weather forecast window in your area.
             </p>
           </div>
         ) : (
@@ -64,7 +64,7 @@ export const AlertsView: React.FC = () => {
                     </div>
 
                     <span className="text-[10px] text-stone-400 font-mono">
-                      ClimateCheck Risk Indicator
+                      Framtech Risk Indicator
                     </span>
                   </div>
 

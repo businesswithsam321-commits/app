@@ -17,7 +17,7 @@ export const QuickAiEntry: React.FC = () => {
             <Sparkles className="w-5 h-5" />
           </div>
           <div>
-            <h3 className="text-lg font-bold font-display text-white">ASK CLIMATECHECK AI</h3>
+            <h3 className="text-lg font-bold font-display text-white">ASK FRAMTECH AI</h3>
             <p className="text-xs text-emerald-200">Contextual answers on weather, water, crops, & mandi prices</p>
           </div>
         </div>
