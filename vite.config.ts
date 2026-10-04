@@ -11,14 +11,14 @@ export default defineConfig({
         target: 'https://chatbase.co',
         changeOrigin: true,
         secure: false,
-        rewrite: (path) => path.replace(/^\/help/, '/YOUR_AGENT_ID/help')
+        rewrite: (path) => path.replace(/^\/help/, '/OBi1rNp7vL0reEIicNKzw/help')
       },
       '/__cb': {
         target: 'https://chatbase.co',
         changeOrigin: true,
         secure: false,
       },
-      '/api/chat/YOUR_AGENT_ID': {
+      '/api/chat/OBi1rNp7vL0reEIicNKzw': {
         target: 'https://chatbase.co',
         changeOrigin: true,
         secure: false,
